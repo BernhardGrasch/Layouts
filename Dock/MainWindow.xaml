@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Dock"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Dock" Height="450" Width="800" MinHeight="450" MinWidth="800">
     <DockPanel>
         <Button DockPanel.Dock="Top" HorizontalAlignment="Stretch" Content="Top 1" FontSize="24"></Button>
         <Button DockPanel.Dock="Bottom" HorizontalAlignment="Stretch" Content="Bottom 1" FontSize="24"></Button>
